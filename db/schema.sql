@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS <db name>
+CREATE DATABASE <db name>
