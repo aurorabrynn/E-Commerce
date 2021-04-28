@@ -5,7 +5,7 @@ I made the back end of a e-commerce website. Knowing what is in stock what what 
 
 I learned the best practises for sequalize and how to write the PUT routes.
 ## Video
-![Video Walkthrough]()
+![Video Walkthrough](https://drive.google.com/file/d/1oBAm5xVyKXuV9Hs8UvV2pkucOTJ71y8K/view)
 
 ## Link
-<a href="">Github Link</a>
+<a href="https://aurorabrynn.github.io/E-Commerce/">Github Link</a>
