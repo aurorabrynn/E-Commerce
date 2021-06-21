@@ -7,7 +7,7 @@ This is an example of the back end of a e-commerce website. Knowing what is in s
 I learned the best practises for sequalize and how to write the PUT routes.
 
 ## Video Walkthrough
-![Video Walkthrough](https://user-images.githubusercontent.com/70443846/122811225-0ddcf580-d285-11eb-8b40-219d0737c5c3.gif)
+[Video Walkthrough](https://github.com/aurorabrynn/E-Commerce/files/6688807/e-commerce.zip)
 
 ## Link
 <a href="https://aurorabrynn.github.io/E-Commerce/">Github Link</a>
